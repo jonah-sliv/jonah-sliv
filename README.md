@@ -1,13 +1,26 @@
 ## Hi There! 👋 I'm Jonah.
 
-### 🎓 About Me
+### 🎓 About Me:
 
-I'm a junior computer science major at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
+I'm a junior computer science student at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
 
-### 🌐 Connect With Me
+### 🚀 What I'm Up To:
 
+ - Designing frontend applications with React
+ - Dipping my toes into AI and machine learning
+
+### 🛠️ Tech Stack:
+
+ - Languages: JavaScript, Python, C++, HTML/CSS
+ - Developer Tools: Git, Google Suite, VS Code, Bitvise
+ - Libraries/Frameworks: React, Material UI
+
+### 📫 Contact:
+
+Feel free to reach out or connect with me on LinkedIn!
+
+ - [Email](mailto:silversteinjonah@gmail.com)
  - [LinkedIn](linkedin.com/in/jonah-sliv)
- - [Gmail](mailto:silversteinjonah@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
