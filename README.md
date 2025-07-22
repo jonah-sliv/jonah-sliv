@@ -20,7 +20,7 @@ I'm a junior computer science student at University of Maryland, Baltimore Count
 Feel free to reach out or connect with me on LinkedIn!
 
  - [Email](mailto:silversteinjonah@gmail.com)
- - [LinkedIn](linkedin.com/in/jonah-sliv)
+ - [LinkedIn](https://www.linkedin.com/in/jonah-sliv/)
 
 <!--
 - 🔭 I’m currently working on ...
