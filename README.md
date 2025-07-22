@@ -1,21 +1,21 @@
-## Hi There! 👋 I'm Jonah.
+# Hi There! 👋 I'm Jonah.
 
-### 🎓 About Me:
+## 🎓 About Me:
 
 I'm a junior computer science student at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
 
-### 🚀 What I'm Up To:
+## 🚀 What I'm Up To:
 
  - Designing frontend applications with React
  - Dipping my toes into AI and machine learning
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
  - Languages: JavaScript, Python, C++, HTML/CSS
  - Developer Tools: Git, Google Suite, VS Code, Bitvise
  - Libraries/Frameworks: React, Material UI
 
-### 📫 Contact:
+## 📫 Contact:
 
 Feel free to reach out or connect with me on LinkedIn!
 
