@@ -6,7 +6,7 @@ I'm a junior computer science major at University of Maryland, Baltimore County.
 
 ### Connect With Me
 
- - [![LinkedIn](linkedin.com/in/jonah-sliv)]
+ - [LinkedIn](linkedin.com/in/jonah-sliv)
  - 
 
 <!--
