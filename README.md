@@ -1,13 +1,13 @@
 ## Hi There! 👋 I'm Jonah.
 
-### About Me
+### 🎓 About Me
 
 I'm a junior computer science major at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
 
-### Connect With Me
+### 🌐 Connect With Me
 
  - [LinkedIn](linkedin.com/in/jonah-sliv)
- - 
+ - [Gmail](mailto:silversteinjonah@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
