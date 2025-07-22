@@ -2,13 +2,13 @@
 
 ### About Me
 
-I am a junior computer science major at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
+I'm a junior computer science major at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
 
 ### Connect With Me
 
-<ul>
-  <li>[LinkedIn](linkedin.com/in/jonah-sliv)</li>
-</ul>
+ - [![LinkedIn](linkedin.com/in/jonah-sliv)]
+ - 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
