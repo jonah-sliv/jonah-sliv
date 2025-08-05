@@ -12,7 +12,7 @@ I'm a junior computer science student at University of Maryland, Baltimore Count
 ## 🛠️ Tech Stack:
 
  - Languages: JavaScript, Python, C++, HTML/CSS
- - Developer Tools: Git, VS Code, Jupyter Notebook, Bitvise, Google Suite
+ - Developer Tools: Git, VS Code, Jupyter Notebook, Bitvise
  - Libraries/Frameworks: React, Material UI, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 ## 📫 Contact:
