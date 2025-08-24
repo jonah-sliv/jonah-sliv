@@ -13,7 +13,7 @@ I'm a junior computer science student at University of Maryland, Baltimore Count
 
  - Languages: JavaScript, Python, C++, HTML/CSS
  - Developer Tools: Git, VS Code, Jupyter Notebook, Bitvise
- - Libraries/Frameworks: React, Material UI, Pandas, Matplotlib, Seaborn, Scikit-Learn
+ - Libraries/Frameworks: React, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, Material UI
 
 ## 📫 Contact:
 
