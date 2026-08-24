@@ -6,10 +6,10 @@ I'm a senior computer science student at University of Maryland, Baltimore Count
 
 ## 🛠️ Tech Stack:
 
-Languages: C#, C++, JavaScript, Python, SQL, HTML/CSS
-Libraries/Frameworks: .NET, React, Scikit-Learn, NumPy, Pandas, Matplotlib
-Databases: MySQL, PostgreSQL
-Developer Tools: Git, Visual Studio, VS Code, Jira, Trello, Jupyter Notebook, GitHub Copilot
+ - Languages: C#, C++, JavaScript, Python, SQL, HTML/CSS
+ - Libraries/Frameworks: .NET, React, Scikit-Learn, NumPy, Pandas, Matplotlib
+ - Databases: MySQL, PostgreSQL
+ - Developer Tools: Git, Visual Studio, VS Code, Jira, Trello, Jupyter Notebook, GitHub Copilot
 
 ## 📫 Contact:
 
