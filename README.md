@@ -2,18 +2,14 @@
 
 ## 🎓 About Me:
 
-I'm a junior computer science student at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
-
-## 🚀 What I'm Up To:
-
- - Designing frontend applications with React
- - Dipping my toes into AI and machine learning
+I'm a senior computer science student at University of Maryland, Baltimore County. I'm passionate about all things coding, from web development to machine learning.
 
 ## 🛠️ Tech Stack:
 
- - Languages: JavaScript, Python, C++, HTML/CSS
- - Developer Tools: Git, VS Code, Jupyter Notebook, Bitvise
- - Libraries/Frameworks: React, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, Material UI
+Languages: C#, C++, JavaScript, Python, SQL, HTML/CSS
+Libraries/Frameworks: .NET, React, Scikit-Learn, NumPy, Pandas, Matplotlib
+Databases: MySQL, PostgreSQL
+Developer Tools: Git, Visual Studio, VS Code, Jira, Trello, Jupyter Notebook, GitHub Copilot
 
 ## 📫 Contact:
 
